@@ -2,7 +2,7 @@
 
 Streams is a basic online streaming platform developed with JavaScript. It allows users to create, edit, delete streams as well as view other peoples streams. The frontend is developed with React and Redux. The backend uses a JSON-server to handle CRUD operations, and an RTMP media server to forward OBS streams to the client.
 
-## Screen Shots
+## Screenshots
 
 ### Creating a stream
 
