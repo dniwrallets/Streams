@@ -1,5 +1,5 @@
 {
-  "name": "js-stream",
+  "name": "streams",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dniwrallets/js-stream.git"
+    "url": "git+https://github.com/dniwrallets/streams.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dniwrallets/js-stream/issues"
+    "url": "https://github.com/dniwrallets/streams/issues"
   },
-  "homepage": "https://github.com/dniwrallets/js-stream#readme"
+  "homepage": "https://github.com/dniwrallets/streams#readme"
 }
