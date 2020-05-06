@@ -1,6 +1,24 @@
-# stream
+# streams
 
-Web application for creating or viewing OBS stream
+Streams is a basic online streaming platform developed with JavaScript. It allows users to create, edit, delete streams as well as view other peoples streams. The frontend is developed with React and Redux. The backend uses a JSON-server to handle CRUD operations, and an RTMP media server to forward OBS streams to the client.
+
+## Screen Shots
+
+### Creating a stream
+
+![Imgur](https://i.imgur.com/4RThgjw.png)
+
+### Viewing a stream
+
+![Imgur](https://i.imgur.com/aifc9bv.png)
+
+### Stream listings
+
+![Imgur](https://i.imgur.com/0q5SEy3.png)
+
+### Editing a Stream
+
+![Imgur](https://i.imgur.com/AJran2i.png)
 
 ## Getting Started
 
@@ -60,7 +78,6 @@ Coming soon
 - [Redux Form](https://redux-form.com/) - Form state management
 - [Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - RTMP media server
 - [json-server](https://github.com/typicode/json-server) - REST API
-- [PurpleBooth](https://github.com/PurpleBooth) README template
 
 ## Authors
 
